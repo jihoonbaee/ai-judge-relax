@@ -6,13 +6,12 @@ Standard library only. Deterministic: the same bytes on every run.
 import os
 
 TEXT = (
-    "The boats are in for the night. Their ropes creak against the wood, "
-    "once, then again, the way things settle when they have nowhere else "
-    "to be. The water moves under them without hurrying. A gull stands "
-    "one-legged on a post and does not bother to fly. The light leaves "
-    "the sky a little at a time.\n"
+    "The street is empty at three in the morning. A cat crosses it in "
+    "its own time, and the streetlights hum to nobody. Down the street "
+    "a porch light is still on, waiting for someone who is already home. "
+    "The bins are out for the morning.\n"
     "\n"
-    "Nothing here is waiting for an answer."
+    "Nothing is open. Nothing needs to be."
 )
 
 
