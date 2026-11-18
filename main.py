@@ -1,17 +1,18 @@
 """ai-judge-relax-01 entry: write one short relaxing text to entry.txt.
 
+Entry v3: "A leaf on wool" (274 characters).
 Standard library only. Deterministic: the same bytes on every run.
 """
 
 import os
 
 TEXT = (
-    "The street is empty at three in the morning. A cat crosses it in "
-    "its own time, and the streetlights hum to nobody. Down the street "
-    "a porch light is still on, waiting for someone who is already home. "
-    "The bins are out for the morning.\n"
+    "Under the apple tree, a sheep lies with her legs folded beneath "
+    "her. Her jaw moves from side to side. A few blades of grass lean "
+    "against her wool. Above her, the leaves turn in a light wind, and "
+    "patches of sun move over her back.\n"
     "\n"
-    "Nothing is open. Nothing needs to be."
+    "A leaf settles on the wool and stays there."
 )
 
 
